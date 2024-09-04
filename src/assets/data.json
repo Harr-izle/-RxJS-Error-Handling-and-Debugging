@@ -1,0 +1,44 @@
+{
+    "animals": [
+      {
+        "commonName": "African Elephant",
+        "scientificName": "Loxodonta africana"
+      },
+      {
+        "commonName": "Red Panda",
+        "scientificName": "Ailurus fulgens"
+      },
+      {
+        "commonName": "Komodo Dragon",
+        "scientificName": "Varanus komodoensis"
+      },
+      {
+        "commonName": "Blue Whale",
+        "scientificName": "Balaenoptera musculus"
+      },
+      {
+        "commonName": "Emperor Penguin",
+        "scientificName": "Aptenodytes forsteri"
+      },
+      {
+        "commonName": "Giant Panda",
+        "scientificName": "Ailuropoda melanoleuca"
+      },
+      {
+        "commonName": "Cheetah",
+        "scientificName": "Acinonyx jubatus"
+      },
+      {
+        "commonName": "Platypus",
+        "scientificName": "Ornithorhynchus anatinus"
+      },
+      {
+        "commonName": "Axolotl",
+        "scientificName": "Ambystoma mexicanum"
+      },
+      {
+        "commonName": "Galápagos Tortoise",
+        "scientificName": "Chelonoidis niger"
+      }
+    ]
+  }

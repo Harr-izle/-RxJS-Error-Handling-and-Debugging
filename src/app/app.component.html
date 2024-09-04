@@ -1,0 +1,8 @@
+<div class="container">
+  <h6>RxJS Error Handling and Debugging</h6>
+  <button class="btn-fetch" (click)="makeRequest()">Make Request</button>
+  <div *ngIf="loading" class="spinner"></div>
+
+  <div class="response" *ngIf="response">{{ response }}</div>
+  <div class="error" *ngIf="error">{{ error }}</div>
+</div>
